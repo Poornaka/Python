@@ -51,7 +51,7 @@ KV = '''
                 text: "DP Education"
                 on_press:
                     root.nav_drawer.set_state("close")
-                    root.screen_manager.current = "scr 4"
+                    root.screen_manager.current = "scr 4" 
 
 
 Screen:
