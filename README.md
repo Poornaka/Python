@@ -1,4 +1,3 @@
-# Python
-Python programming with Kivy and KivyMD
+# Kivy and KivyMD
 
-Doing stuff with Kivy
+Python programming with Kivy and KivyMD
